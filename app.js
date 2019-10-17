@@ -1,11 +1,4 @@
-function clock_time() {
-    function clock_time() {
-        var today = new Date();
-        var h= today.getHours();
-       
-      
-        
-        function clock_time() {
+ function clock_time() {
             var today = new Date();
             var h= today.getHours();
            
@@ -32,5 +25,4 @@ function clock_time() {
                     var t=setTimeout(clock_time);
                 } 
         } 
-    } 
-} 
+
