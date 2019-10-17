@@ -1,7 +1,3 @@
 function clock_time() {
-   );
    
-  
-    
-    
-};
+} 
