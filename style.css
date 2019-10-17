@@ -1,8 +1,6 @@
-function clock_time() {
-    var today = new Date();
-    var h = today.getHours();
-   
-  
-    
-    
-};
+/* Greeting App */
+#heading{
+    margin: auto;
+    color: red;
+    font-size: 3em;
+    }
